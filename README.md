@@ -2,7 +2,7 @@
 - 👀 I’m interested in React,node,php
 - 🌱 I’m currently learning Management...
 - 💞️ I’m looking to collaborate on ReactJS, node open source...
-- 📫 How to reach me? dkhan9591@gmail.com
+- 📫 How to reach me? hello@danishkhan.xyz
 
 <!---
 danish-khan-I/danish-khan-I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
